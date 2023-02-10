@@ -1,7 +1,7 @@
 # pos
 
 The Point of sale is a web based application for Pizza and restaurants mainly
-aims for order taking and billing. It is also used to set up master data like Menus, Category of
+aims for order taking. It is also used to set up master data like Menus, Category of
 Food/Beverages etc. which are essential for running Pizza Store.
 
 Technologies Used:
